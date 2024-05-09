@@ -1,0 +1,51 @@
+{
+	"id": "LM10",
+	"type": "Football",
+	"name": "Lionel Andres Messi",
+	"batters": {
+		"batter": [
+			{
+				"id": "LM10",
+				"type": "Dribbler"
+			},
+			{
+				"id": "LM10",
+				"type": "False Nine"
+			},
+			{
+				"id": "LM10",
+				"type": "PlayMaker"
+			},
+			{
+				"id": "LM10",
+				"type": "GOAT"
+			}
+		]
+	},
+	"topping": [
+		{
+			"id": "World Cup",
+			"type": "Yes"
+		},
+		{
+			"id": "Olympics Gold",
+			"type": "Yes"
+		},
+		{
+			"id": "Copa America",
+			"type": "Yes"
+		},
+		{
+			"id": "La Finalisma",
+			"type": "Yes"
+		},
+		{
+			"id": "Quitter",
+			"type": "No"
+		},
+		{
+			"id": "Legend?",
+			"type": "Definitely Yessssssssssss"
+		}
+	]
+}
